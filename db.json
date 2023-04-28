@@ -1,0 +1,22 @@
+{
+  "emprestimos": [
+    {
+      "id": 1,
+      "solicitante": "John McClane",
+      "cpf": 58008118067,
+      "valor": 5000
+    },
+    {
+      "solicitante": "Marty McFly",
+      "cpf": "01234567890",
+      "valor": 6000,
+      "id": 2
+    },
+    {
+      "solicitante": "Marty McFly",
+      "cpf": "01234567890",
+      "valor": 6000,
+      "id": 3
+    }
+  ]
+}
